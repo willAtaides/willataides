@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando Python
-- 😄 Pronouns: Ele/dele
+
 
 <div align="center">
   <a href="https://github.com/willAtaides">
