@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=73348a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315c6b&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f5f5f&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Willian+Ataides;I'm+23+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -19,9 +19,9 @@ Let's connect and collaborate on projects that push the boundaries of technology
 
 <div align="center"> </div> 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willataide&show_icons=true&count_private=true&hide_border=true&title_color=5f5f5f&icon_color=5f5f5f&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willataides&layout=compact&hide_border=true&title_color=5f5f5f&text_color=5f5f5f&bg_color=172320" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willataide&show_icons=true&count_private=true&hide_border=true&title_color=38697a&icon_color=38697a&text_color=c9d1d9&bg_color=dae6ea" alt="Willian Ataides github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willataides&layout=compact&hide_border=true&title_color=38697a&text_color=38697a&bg_color=dae6ea" />
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=73348a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38697a&height=120&section=footer"/>
