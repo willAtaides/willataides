@@ -17,11 +17,13 @@ I'm currently pursuing a degree in Analysis and Systems Development, where I'm l
 
 Let's connect and collaborate on projects that push the boundaries of technology and make a positive impact on the world. Feel free to reach out to me for discussions, collaborations, or just a friendly chat about all things software and technology!
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=willataides&bg_color=3b3538&color=cfd8d8&line=8fccbc&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center"> </div> 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=willataide&show_icons=true&count_private=true&hide_border=true&title_color=38697a&icon_color=38697a&text_color=c9d1d9&bg_color=dae6ea" alt="Willian Ataides github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willataides&layout=compact&hide_border=true&title_color=38697a&text_color=38697a&bg_color=dae6ea" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willataides&layout=compact&hide_border=true&title_color=38697a&text_color=38697a&bg_color=dae6ea" />
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38697a&height=120&section=footer"/>
