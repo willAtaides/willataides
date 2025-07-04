@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=315c6b&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f5f5f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Willian+Ataides;Eu+tenho+25+anos+;Sou+do+Rio+de+janeiro;Eu+sou+formado+em+Analise+e+Desenvolvimento+de+sistemas+cursando+MBA+Gestão+de+Projetos+na+USP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f5f5f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Willian+Ataides;Eu+tenho+25+anos+;Sou+do+Rio+de+janeiro;;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 Willian Ataides | Desenvolvedor Backend Java
 Sou formado em Análise e Desenvolvimento de Sistemas pelo Senac e atualmente faço MBA em Gestão de Projetos pela USP.
