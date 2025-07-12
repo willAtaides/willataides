@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5f5f5f&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Willian+Ataides;Eu+tenho+25+anos+;Sou+do+Rio+de+janeiro;;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-Willian Ataides | Desenvolvedor Backend Java
+Willian Ataides | Desenvolvedor Backend Java  | <br>
 Sou formado em Análise e Desenvolvimento de Sistemas pelo Senac e atualmente faço MBA em Gestão de Projetos pela USP.
 
 Buscando sempre aprender. 
